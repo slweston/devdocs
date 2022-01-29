@@ -15,7 +15,7 @@ The Magento Framework provides a set of core logic: [PHP](https://glossary.magen
 
 ## Purpose of a module
 
-The purpose of a module is to provide specific product features by implementing new functionality or extending the functionality of other modules. Each module is designed to function independently, so the inclusion or exclusion of a particular module does not typically affect the functionality of other modules.
+The purpose of a module is to provide specific product features by implementing new functionality or by extending the functionality of other modules. Each module is designed to function independently, so that the inclusion or exclusion of a particular module does not typically affect the functionality of other modules.
 
 ## Module components
 
