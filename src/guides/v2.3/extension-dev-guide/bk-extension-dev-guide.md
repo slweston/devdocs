@@ -9,7 +9,7 @@ The [PHP](https://glossary.magento.com/php) Developer Guide contains information
 
 The Magento application is made up of *Modules*, *Themes*, and *Language Packages*:
 
-*  [**Modules**]({{ page.baseurl }}/architecture/archi_perspectives/components/modules/mod_intro.html) interact with other parts of the application to accomplish a particular business function or provide a feature. A [module](https://glossary.magento.com/module) can contain a user interface for displaying information or interacting with the user. It can also contain application interfaces that another Magento module or code chunk might call.
+*  [**Modules**]({{ page.baseurl }}/architecture/archi_perspectives/components/modules/mod_intro.html) interact with other parts of the application to accomplish a particular business function or to provide a feature. A [module](https://glossary.magento.com/module) can contain a user interface for displaying information or for interacting with the user. It can also contain application interfaces that another Magento module or code chunk might call.
 
 *  [**Themes**]({{ page.baseurl }}/frontend-dev-guide/themes/theme-overview.html) provide a personalized touch for each Magento installation by changing the look and feel of the [storefront](https://glossary.magento.com/storefront) or [Admin](https://glossary.magento.com/admin). Two themes are already available within the default Magento 2.x code structure: Blank theme and Luma theme. Refer to these default themes when creating custom themes.
 
